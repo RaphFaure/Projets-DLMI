@@ -1,6 +1,6 @@
 # Projets-DLMI
 
-Ce répertoire contient les deux projets réalisés en collaboration avec Nassim Arifette (nassim.arifette@ens-paris-saclay.fr). Vous trouverez les consignes dans le répertoire. 
+Ce répertoire contient les deux projets réalisés en collaboration avec Nassim Arifette (nassim.arifette@ens-paris-saclay.fr) dans le cadre du cours Deep Learning for Medical Imaging du MVA. Vous trouverez les consignes dans le répertoire. 
 
 Le projet consiste à lire un article et à un en faire une review puis une critique. Vous trouverez l'article en question, notre travail et notre poster de présentation. 
 
